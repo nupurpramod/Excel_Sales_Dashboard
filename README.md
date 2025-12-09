@@ -26,6 +26,5 @@ This project contains an interactive Excel-based sales dashboard built from mult
 ## Usage
 
 - Download the excel file: ![Excel_Sales_Dashboard](Sales_Dashboard.xlsx)
-- Open it in Excel and use the Year slicer to switch between single-year (for example, 1998) and multi-year views.
-- Download this excel file :
-- Open it in Excel and use the Year slicer to switch between single-year (for example, 1998) and multi-year views.
+- Open it in Excel and use the Year slicer to switch between single-year (for eg. 1998) and multi-year views.
+
