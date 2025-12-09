@@ -22,3 +22,8 @@ This project contains an interactive Excel-based sales dashboard built from mult
 ![Excel_Sales_Dashboard](Sales_Dashboard_for_1998.png)
 ### Sales Dashboard – For all Years (1996 - 1998)
 ![Excel_Sales_Dashboard](Sales_Dashboard_for_three_Years.png)
+
+## Usage
+
+- Download this excel file :
+- Open it in Excel and use the Year slicer to switch between single-year (for example, 1998) and multi-year views.
