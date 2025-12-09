@@ -22,3 +22,4 @@ This project contains an interactive Excel-based sales dashboard built from mult
 ### Sales Dashboard – Single Year View (1998)
 
 ### Sales Dashboard – For all Years View (1996 - 1998)
+![Excel_Sales_Dashboard](Sales_Dashboard_for_three_Years.png)
