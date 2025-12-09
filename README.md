@@ -10,13 +10,13 @@ This project contains an interactive Excel-based sales dashboard built from mult
 
 ## Dashboard Features
 
-1 Year slicer that updates all charts and summary values
-2 Sales by Month line chart to view trends within the selected year
-3 Sales by Category pie chart to understand category-wise contribution
-4 Sales by Shippers pie chart to compare shipping performance
-5 Country-wise Sales bar chart to see which countries generate the most revenue
-6 Top 10 Selling Products section to highlight best-performing items
-7 Top 10 Customers bar chart to identify key customers
+- 1 Year slicer that updates all charts and summary values
+- 2 Sales by Month line chart to view trends within the selected year
+- 3 Sales by Category pie chart to understand category-wise contribution
+- 4 Sales by Shippers pie chart to compare shipping performance
+- 5 Country-wise Sales bar chart to see which countries generate the most revenue
+- 6 Top 10 Selling Products section to highlight best-performing items
+- 7 Top 10 Customers bar chart to identify key customers
 
 ## Dashboard Snaoshot
 ### Sales Dashboard – Single Year View (1998)
